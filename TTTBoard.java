@@ -2,8 +2,6 @@ import java.util.Scanner;
 /**
  * Amy Hong
  * CS2336.S21
- * Note: I coded this game before watching the code activity video. As a result most  of the code
- * differs quite a bit from the professor's code. I used to video to compare methods of coding the game.
  */
 public class TTTBoard
 {
